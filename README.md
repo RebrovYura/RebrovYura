@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Welcome to the internet 👋 </br> Please, follow me ✨</h1>
+<h1>Welcome to the internet 👋</h1>
 </div>
 
 <div id="header" align="center">
