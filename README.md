@@ -1,13 +1,11 @@
-<div align="center">
-<h1>Welcome to the internet 👋</h1>
-</div>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/>
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=RebrovYura&style=for-the-badge&color=blueviolet" alt=""/>
-  </div>
-</div>
+**Welcome to the internet** 
+👋
+<!-- <div id="header" align="center"> -->
+<!--   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/> -->
+<!--   <div> -->
+<!--     <img src="https://komarev.com/ghpvc/?username=RebrovYura&style=for-the-badge&color=blueviolet" alt=""/> -->
+<!--   </div> -->
+<!-- </div> -->
 
 
 
